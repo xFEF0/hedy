@@ -4,8 +4,8 @@ module.exports = {
     extend: {},
     screens: {
       // We only need a few breakpoints
-      sm: '640px',
-      lg: '1024px',
+      md: '768px',
+      xl: '1280px',
     },
   },
   variants: {},
